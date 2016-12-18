@@ -44,6 +44,10 @@ PRODUCT_COPY_FILES += \
 
 # Chromatix
 PRODUCT_COPY_FILES += \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_common.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_common.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_default_video.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_default_video.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_preview.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_preview.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_snapshot.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_snapshot.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_common.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_common.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_default_video.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_default_video.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_60fps.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_60fps.so \
@@ -68,5 +72,6 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_COPY_FILES += \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov2680_byd_bm2920b.so:system/vendor/lib/libmmcamera_ov2680_byd_bm2920b.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k5e2_ofilm_ohw5f02.so:system/vendor/lib/libmmcamera_s5k5e2_ofilm_ohw5f02.so
