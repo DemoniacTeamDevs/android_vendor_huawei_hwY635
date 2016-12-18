@@ -33,8 +33,8 @@ PRODUCT_PACKAGES += \
     QNfc
 
 # Sensors
-#PRODUCT_COPY_FILES += \
-#    vendor/huawei/hwY635/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so
+PRODUCT_COPY_FILES += \
+    vendor/huawei/hwY635/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so
 
 # Actuator
 PRODUCT_COPY_FILES += \
