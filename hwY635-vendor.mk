@@ -36,7 +36,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so
 
-# Camera
+# Actuator
 PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camcorder.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camcorder.so \
@@ -52,8 +52,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_liveshot.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_liveshot.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_preview.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_preview.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_snapshot.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_snapshot.so \
-    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so \
-    vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so
 
 # Chromatix
 PRODUCT_COPY_FILES += \
@@ -66,3 +65,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_preview.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_preview.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_snapshot.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_snapshot.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_video_hd.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_video_hd.so
+
+# Camera
+PRODUCT_COPY_FILES += \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k5e2_ofilm_ohw5f02.so:system/vendor/lib/libmmcamera_s5k5e2_ofilm_ohw5f02.so
