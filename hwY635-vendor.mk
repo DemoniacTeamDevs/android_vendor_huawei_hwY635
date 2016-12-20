@@ -32,10 +32,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     QNfc
 
-# Sensors
-#PRODUCT_COPY_FILES += \
-#    vendor/huawei/hwY635/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so
-
 # Actuator
 PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806.so \
