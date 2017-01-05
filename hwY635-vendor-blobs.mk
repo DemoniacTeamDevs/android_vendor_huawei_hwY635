@@ -101,6 +101,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov5648_sunny_p5v18g.so:system/vendor/lib/libactuator_ov5648_sunny_p5v18g.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov5648_sunny_p5v18g_camcorder.so:system/vendor/lib/libactuator_ov5648_sunny_p5v18g_camcorder.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov5648_sunny_p5v18g_camera.so:system/vendor/lib/libactuator_ov5648_sunny_p5v18g_camera.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov5670_ofilm_ohw5a03.so:system/vendor/lib/libactuator_ov5670_ofilm_ohw5a03.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov5670_ofilm_ohw5a03_camcorder.so:system/vendor/lib/libactuator_ov5670_ofilm_ohw5a03_camcorder.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov5670_ofilm_ohw5a03_camera.so:system/vendor/lib/libactuator_ov5670_ofilm_ohw5a03_camera.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov8825.so:system/vendor/lib/libactuator_ov8825.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov8825_camcorder.so:system/vendor/lib/libactuator_ov8825_camcorder.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov8825_camera.so:system/vendor/lib/libactuator_ov8825_camera.so \
@@ -110,6 +113,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov12830.so:system/vendor/lib/libactuator_ov12830.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov12830_camcorder.so:system/vendor/lib/libactuator_ov12830_camcorder.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov12830_camera.so:system/vendor/lib/libactuator_ov12830_camera.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohwba03.so:system/vendor/lib/libactuator_ov13850_ofilm_ohwba03.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohwba03_camcorder.so:system/vendor/lib/libactuator_ov13850_ofilm_ohwba03_camcorder.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohwba03_camera.so:system/vendor/lib/libactuator_ov13850_ofilm_ohwba03_camera.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov13850_sunny_p13v01h.so:system/vendor/lib/libactuator_ov13850_sunny_p13v01h.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov13850_sunny_p13v01h_camcorder.so:system/vendor/lib/libactuator_ov13850_sunny_p13v01h_camcorder.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_ov13850_sunny_p13v01h_camera.so:system/vendor/lib/libactuator_ov13850_sunny_p13v01h_camera.so \
@@ -119,6 +125,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_s5k4e1_liteon_13p1.so:system/vendor/lib/libactuator_s5k4e1_liteon_13p1.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_s5k4e1_liteon_13p1_camcorder.so:system/vendor/lib/libactuator_s5k4e1_liteon_13p1_camcorder.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_s5k4e1_liteon_13p1_camera.so:system/vendor/lib/libactuator_s5k4e1_liteon_13p1_camera.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camcorder.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camcorder.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camera.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camera.so \
     vendor/huawei/hwY635/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_common.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_common.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_default_video.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_default_video.so \
@@ -227,6 +236,10 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5648_foxconn_g760_snapshot.so:system/vendor/lib/libchromatix_ov5648_foxconn_g760_snapshot.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5648_foxconn_preview.so:system/vendor/lib/libchromatix_ov5648_foxconn_preview.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5648_foxconn_snapshot.so:system/vendor/lib/libchromatix_ov5648_foxconn_snapshot.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_common.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_common.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_default_video.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_default_video.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_preview.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_preview.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_snapshot.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_snapshot.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5648_oty5f03_common.so:system/vendor/lib/libchromatix_ov5648_oty5f03_common.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5648_oty5f03_default_video.so:system/vendor/lib/libchromatix_ov5648_oty5f03_default_video.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5648_oty5f03_preview.so:system/vendor/lib/libchromatix_ov5648_oty5f03_preview.so \
@@ -266,6 +279,16 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_snapshot.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_snapshot.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_video_hd.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_video_hd.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_zsl.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_zsl.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_common.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_common.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_default_video.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_default_video.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_60fps.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_60fps.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_90fps.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_90fps.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_120fps.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_120fps.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_liveshot.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_liveshot.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_preview.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_preview.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_snapshot.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_snapshot.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_video_hd.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_video_hd.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_zsl.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_zsl.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_common.so:system/vendor/lib/libchromatix_ov5670_q5v41b_common.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_default_video.so:system/vendor/lib/libchromatix_ov5670_q5v41b_default_video.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_hfr_60fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_hfr_60fps.so \
@@ -325,6 +348,10 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov13850_hfr_60fps.so:system/vendor/lib/libchromatix_ov13850_hfr_60fps.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov13850_hfr_90fps.so:system/vendor/lib/libchromatix_ov13850_hfr_90fps.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov13850_hfr_120fps.so:system/vendor/lib/libchromatix_ov13850_hfr_120fps.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_common.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_common.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_default_video.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_default_video.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_preview.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_preview.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_snapshot.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_snapshot.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov13850_preview.so:system/vendor/lib/libchromatix_ov13850_preview.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov13850_snapshot.so:system/vendor/lib/libchromatix_ov13850_snapshot.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_ov13850_sunny_p13v01h_common.so:system/vendor/lib/libchromatix_ov13850_sunny_p13v01h_common.so \
@@ -387,6 +414,24 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_g760_snapshot.so:system/vendor/lib/libchromatix_s5k4e1_sunny_g760_snapshot.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_preview.so:system/vendor/lib/libchromatix_s5k4e1_sunny_preview.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_snapshot.so:system/vendor/lib/libchromatix_s5k4e1_sunny_snapshot.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_common.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_common.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_default_video.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_default_video.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_60fps.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_60fps.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_90fps.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_90fps.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_120fps.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_120fps.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_liveshot.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_liveshot.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_preview.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_preview.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_snapshot.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_snapshot.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_common.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_common.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_default_video.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_default_video.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_60fps.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_60fps.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_90fps.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_90fps.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_120fps.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_120fps.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_liveshot.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_liveshot.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_preview.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_preview.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_snapshot.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_snapshot.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_video_hd.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_video_hd.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k9a1_liteon_common.so:system/vendor/lib/libchromatix_s5k9a1_liteon_common.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k9a1_liteon_default_video.so:system/vendor/lib/libchromatix_s5k9a1_liteon_default_video.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libchromatix_s5k9a1_liteon_liveshot.so:system/vendor/lib/libchromatix_s5k9a1_liteon_liveshot.so \
@@ -451,12 +496,14 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5645.so:system/vendor/lib/libmmcamera_ov5645.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5648_foxconn.so:system/vendor/lib/libmmcamera_ov5648_foxconn.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5648_foxconn_132.so:system/vendor/lib/libmmcamera_ov5648_foxconn_132.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5648_ofilm_ohw5f03.so:system/vendor/lib/libmmcamera_ov5648_ofilm_ohw5f03.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5648_oty5f03.so:system/vendor/lib/libmmcamera_ov5648_oty5f03.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5648_p5v18g.so:system/vendor/lib/libmmcamera_ov5648_p5v18g.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5648_q5v22e.so:system/vendor/lib/libmmcamera_ov5648_q5v22e.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5648_sunny_p5v18g.so:system/vendor/lib/libmmcamera_ov5648_sunny_p5v18g.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5648_sunny_p5v36d.so:system/vendor/lib/libmmcamera_ov5648_sunny_p5v36d.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5670_byd_cht854b.so:system/vendor/lib/libmmcamera_ov5670_byd_cht854b.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5670_ofilm_ohw5a03.so:system/vendor/lib/libmmcamera_ov5670_ofilm_ohw5a03.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5670_q5v41b.so:system/vendor/lib/libmmcamera_ov5670_q5v41b.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov5670_sunny_p5v42b.so:system/vendor/lib/libmmcamera_ov5670_sunny_p5v42b.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov8825.so:system/vendor/lib/libmmcamera_ov8825.so \
@@ -465,6 +512,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov9724.so:system/vendor/lib/libmmcamera_ov9724.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov9724_foxconn.so:system/vendor/lib/libmmcamera_ov9724_foxconn.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov13850.so:system/vendor/lib/libmmcamera_ov13850.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov13850_ofilm_ohwba03.so:system/vendor/lib/libmmcamera_ov13850_ofilm_ohwba03.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_ov13850_sunny_p13v01h.so:system/vendor/lib/libmmcamera_ov13850_sunny_p13v01h.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k3l1yx.so:system/vendor/lib/libmmcamera_s5k3l1yx.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_S5K4E1_13P1BA.so:system/vendor/lib/libmmcamera_S5K4E1_13P1BA.so \
@@ -473,6 +521,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_S5K4E1_SKUHF.so:system/vendor/lib/libmmcamera_S5K4E1_SKUHF.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k4e1_sunny.so:system/vendor/lib/libmmcamera_s5k4e1_sunny.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k4e1_sunny_132.so:system/vendor/lib/libmmcamera_s5k4e1_sunny_132.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so \
+    vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k5e2_ofilm_ohw5f02.so:system/vendor/lib/libmmcamera_s5k5e2_ofilm_ohw5f02.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_s5k9a1_liteon.so:system/vendor/lib/libmmcamera_s5k9a1_liteon.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_SKUAA_ST_gc0339.so:system/vendor/lib/libmmcamera_SKUAA_ST_gc0339.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/libmmcamera_skuab_shinetech_gc0339.so:system/vendor/lib/libmmcamera_skuab_shinetech_gc0339.so \
